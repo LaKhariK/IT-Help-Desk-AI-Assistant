@@ -32,8 +32,6 @@ cd ..
 npm run dev
 ```
 
-Open **http://localhost:3000**
-
 ## Built by
 
 Khari King — [lakhariking.com](https://lakhariking.com)
