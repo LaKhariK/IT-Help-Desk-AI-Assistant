@@ -34,4 +34,4 @@ npm run dev
 
 ## Built by
 
-Khari King — [lakhariking.com](https://lakhariking.com)
+LaKhari King — [lakhariking.com](https://lakhariking.com)
